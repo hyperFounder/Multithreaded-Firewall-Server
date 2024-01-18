@@ -1,4 +1,4 @@
-# Firewall Server
+# Multithreaded Firewall Server
 Operating Systems and Systems Programming
 
 - This repository contains a C server program for checking firewall rules. It is developed as a university graded assignment.
